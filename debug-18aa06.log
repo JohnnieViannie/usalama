@@ -1,0 +1,2 @@
+{"sessionId":"18aa06","runId":"run1","hypothesisId":"H1","location":"app/android/app/build.gradle.kts","message":"Gradle configuration entered","data":{"compileSdk":"36","minSdk":"24","javaTarget":"17"},"timestamp":1776678359552}
+{"sessionId":"18aa06","runId":"run1","hypothesisId":"H2","location":"app/android/app/build.gradle.kts","message":"Post-evaluate Android desugaring state","data":{"coreLibraryDesugaringEnabled":false,"coreLibraryDesugaringDepCount":0,"hasLocalNotificationsImplDep":false},"timestamp":1776678361120}
